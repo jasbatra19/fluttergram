@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798378766968",
+    "firebase_url": "https://blog-5e2ab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blog-5e2ab",
+    "storage_bucket": "blog-5e2ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798378766968:android:2d3a5aae2f1b1f74ebf38d",
+        "android_client_info": {
+          "package_name": "com.example.fluttergram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798378766968-qtugifv0lbhmignsi4vetsht3q0g3e3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4FIviXpsSy8jia3PDW4sbPONustRKV3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798378766968-qtugifv0lbhmignsi4vetsht3q0g3e3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
