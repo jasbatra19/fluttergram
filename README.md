@@ -1,5 +1,6 @@
 # fluttergram
-
+## Blogging App
+### (inserts images from the gallery on the server)
 A new Flutter project.
 
 ## Getting Started
