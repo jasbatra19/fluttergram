@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:fluttergram/Screens/wrapper/Login.dart';
 import 'package:fluttergram/Screens/wrapper/blog.dart';
 
 class Wrapper extends StatefulWidget {
@@ -11,6 +12,6 @@ class Wrapper extends StatefulWidget {
 class _WrapperState extends State<Wrapper> {
   @override
   Widget build(BuildContext context) {
-    return Blog();
+    return Login();
   }
 }

@@ -1,6 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:fluttergram/Screens/aboutMe.dart';
+import 'package:fluttergram/Screens/Create.dart';
 import 'package:fluttergram/Screens/wrapper/Login.dart';
 import 'package:fluttergram/Screens/wrapper/blog.dart';
 
@@ -9,7 +9,7 @@ void main() async {
   await Firebase.initializeApp();
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
-    theme: ThemeData.dark(),
-    home: AboutMe(),
+    theme: ThemeData.light(),
+    home: Login(),
   ));
 }
